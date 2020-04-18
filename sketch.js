@@ -40,7 +40,7 @@ function setup() {
   
   cloudsGroup = new Group();
   obstaclesGroup = new Group();
-  
+  text("try",10,10);
   score = 0;
 }
 
